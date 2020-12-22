@@ -71,10 +71,10 @@ body{
 .container{
   margin: auto;
   background-color: default;
-  width: 800px;
+  width: 900px;
+  heigth : 900px;
   padding: 30px;
-  
- 
+   
 }
 
 ul, li {
