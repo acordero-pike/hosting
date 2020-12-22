@@ -73,6 +73,8 @@ body{
   background-color: white;
   width: 800px;
   padding: 30px;
+  opacity: 0.1;
+ 
 }
 
 ul, li {
@@ -133,3 +135,4 @@ ul.slider li:target {
   font-size: 20px;
   border-radius: 100%;
 }
+
