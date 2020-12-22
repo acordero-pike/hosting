@@ -70,7 +70,7 @@ body{
 
 .container{
   margin: auto;
-  background-color: white;
+  background-color: default;
   width: 800px;
   padding: 30px;
   opacity: 0.1;
