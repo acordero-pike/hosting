@@ -146,10 +146,19 @@ ul.slider li:target {
 }
 
 .contenedort{
-  margin: auto;
-  width: 800px;
-  
-  padding: 30px;
+  margin-left : 250px;
+   padding: 30px;
    
 }
 
+.table1
+{
+  margin-left: 150px;
+   padding: 30px;
+  
+}
+.foot
+{
+ background-color: black;
+  color: white;
+}
