@@ -64,7 +64,7 @@ body {
 }
 
 body{
-  background-color: lightgrey;
+   background-image: url("26293.jpg");
   font-family: sans-serif;
 }
 
@@ -85,7 +85,7 @@ ul, li {
 ul.slider{
   position: relative;
   width: 950px;
-  height: 5250px;
+  height: 525px;
 }
 
 ul.slider li {
