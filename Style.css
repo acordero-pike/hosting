@@ -156,6 +156,8 @@ ul.slider li:target {
 {
   margin-left: 150px;
    padding: 30px;
+  border-image-source: url("marco.png");
+  border-image-slice: 75;
   
 }
 footer {
