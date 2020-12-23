@@ -157,8 +157,9 @@ ul.slider li:target {
    padding: 30px;
   
 }
-.foot
-{
- background-color: black;
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
   color: white;
 }
