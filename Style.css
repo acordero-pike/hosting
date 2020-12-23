@@ -66,6 +66,7 @@ body {
 body{
    background-image: url("26293.jpg");
   font-family: sans-serif;
+  background-size: cover;
 }
 
 .container{
@@ -93,8 +94,8 @@ ul.slider li {
     left: 0px;
     top: 0px;
     opacity: 0;
-    width: 1300px;
-    height: 600px;
+    width: 1500px;
+    height: initial;
     transition: opacity .5s;
     background:#fff;
 }
@@ -116,6 +117,7 @@ ul.slider li:target {
 .menu{
   text-align: center;
   margin: 20px;
+  width: 1500px;
 }
 
 .menu li{
