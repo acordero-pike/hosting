@@ -70,10 +70,8 @@ body{
 
 .container{
   margin: auto;
-
-  width: 1000px;
-  height: 600px;
-
+  width: 1200px;
+  height: 500px;
   padding: 30px;
    
 }
@@ -87,7 +85,7 @@ ul, li {
 ul.slider{
   position: relative;
   width: 950px;
-  height: 600px;
+  height: 5250px;
 }
 
 ul.slider li {
@@ -95,8 +93,8 @@ ul.slider li {
     left: 0px;
     top: 0px;
     opacity: 0;
-    width: inherit;
-    height: inherit;
+    width: 1200px;
+    height: 500px;
     transition: opacity .5s;
     background:#fff;
 }
