@@ -9,6 +9,7 @@ body {
 }
 
 .navbar {
+   text-align: center;
   overflow: hidden;
   background-color: black;
 }
@@ -160,7 +161,7 @@ ul.slider li:target {
 footer {
   text-align: center;
   padding: 3px;
-  background-color: lightblack;
+  background-color: black;
   color: white;
 }
 td
