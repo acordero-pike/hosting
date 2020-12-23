@@ -3,10 +3,8 @@ html {
 }
 
 body {
-  background-image: url("26293.jpg");
-   background-position: center; 
-  background-repeat: no-repeat; 
-  background-size: cover; 
+
+  
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -74,6 +72,9 @@ body{
    background-image: url("26293.jpg");
   font-family: sans-serif;
   background-size: cover;
+   background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
 }
 
 .container{
