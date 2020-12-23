@@ -71,7 +71,8 @@ body{
 .container{
   margin: auto;
 
-  width: 900px;
+  width: 1000px;
+  height: 600px;
 
   padding: 30px;
    
