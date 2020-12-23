@@ -145,3 +145,11 @@ ul.slider li:target {
   border-radius: 100%;
 }
 
+.contenedort{
+  margin: auto;
+  width: 800px;
+  
+  padding: 30px;
+   
+}
+
