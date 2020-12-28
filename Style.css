@@ -70,7 +70,7 @@ body {
 }
 
 body{
-  background-color: darkblue;
+  background-color: darkslategray;
   font-family: sans-serif;
   background-size: cover;
    background-position: center; 
@@ -208,4 +208,42 @@ color: lightskyblue;
  width:921px;
    position: relative;
 margin: 0px 0px 22px calc((100% - 980px) * 0.5);
+}
+.conte
+{
+  
+position: relative;
+margin: 0px 0px 20px calc((100% - 980px) * 0.5);
+left: 56px;
+grid-area: 5 / 1 / 6 / 2;
+justify-self: start;
+align-self: start;
+}
+.text2
+{
+  width:869px;
+  position: relative;
+margin: 0px 0px 39px calc((100% - 980px) * 0.5);
+left: 56px;
+grid-area: 6 / 1 / 7 / 2;
+justify-self: start;
+align-self: start;
+}
+.f
+{
+  font-size:16px;
+  line-height:1.3em;
+}
+.f8
+{
+  
+ font-size:16px; 
+  line-height:1.3em; 
+  text-align:justify ;
+}
+.dd
+{
+ overflow-wrap: break-word;
+text-align: start;
+pointer-events: none; 
 }
