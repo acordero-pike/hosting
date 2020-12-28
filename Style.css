@@ -247,3 +247,9 @@ align-self: start;
 text-align: start;
 pointer-events: none; 
 }
+.frau
+{
+ padding:15px;
+  width:45px;
+  height:45px;
+}
