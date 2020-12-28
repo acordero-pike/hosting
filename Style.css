@@ -199,11 +199,13 @@ color:skyeblue;
 }
 a
 {
- text-decoration:none;
-  
+ text-decoration: none;
+color: lightskyblue;
+ 
 }
 .text
 {
  width:921px;
-  
+   position: relative;
+margin: 0px 0px 22px calc((100% - 980px) * 0.5);
 }
