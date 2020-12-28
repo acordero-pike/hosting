@@ -169,4 +169,35 @@ td
  font-size: 25px;
   padding: 30px;
  }
-
+.imagecon
+{
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+vertical-align: baseline;
+background: transparent;
+pointer-events: auto;
+position: relative;
+margin: 0px 0px 22px calc((100% - 980px) * 0.5);
+}
+.cont
+{
+ display: grid;
+height: auto;
+width: 100%;
+min-height: auto;
+grid-template-rows: min-content min-content 1fr;
+grid-template-columns: 100%; 
+}
+span
+{
+color:white;
+}
+a
+{
+ text-decoration:none;
+  
+}
