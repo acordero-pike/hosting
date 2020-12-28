@@ -1,0 +1,105 @@
+<html>
+
+<head>
+
+<link href="Style.css" rel="stylesheet" type="text/css">
+</head>
+<body href="top">
+
+<div class="navbar">
+  <a href="index.html"> <img src="logo_plusti ACTUAL.png"> </a>
+  <a href="#home">Inicio</a>
+  <a href="#news">Compañia</a>
+  <div class="dropdown">
+    <button class="dropbtn">Soluciones 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Prevencion de Fraude </a>
+      <a href="#">Cumplimineto PLD</a>
+      <a href="#">GRC- Riesgos y Oportunidades </a>
+      <a href="#">Auditoría continua </a>
+      <a href="#">Negocios </a>
+      <a href="#">Comercio Internacional </a>
+    </div>
+  </div> 
+  <div class="dropdown">
+    <button class="dropbtn">Cursos 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Calendario </a>
+      <a href="#">eLerning Services</a>
+      <a href="#">Cursos Q4  2020</a>
+    </div>
+  </div> 
+    <div class="dropdown">
+    <button class="dropbtn">Recursos 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Podcast </a>
+      <a href="#">Casos de Estudio </a>
+      <a href="#">Eventos </a>
+       <a href="#">Blog </a>
+    </div>
+  </div> 
+   <a href="#home">Comunidad</a>
+  <a href="#news">Soporte</a>
+</div>
+
+
+</header>
+<body>
+<div class="imagecon" >
+<img scr="Plus TI perfil español.png" >
+</div>
+
+<br>
+
+<div class="text">
+<p class="font_8" style="text-align:justify;font-size:16px"><span style="font-family:lato-light,lato,sans-serif"><span style="font-weight:bold">PLUS TI </span>es una firma de desarrollo de software líder en soluciones para la prevención de crímenes financieros y optimización de procesos institucionales, con una larga trayectoria en la industria y un compromiso con un mundo financiero más seguro.</span></p></body>
+<br>
+
+<p class="font_8" style="text-align:justify;font-size:16px"><span style="font-family:lato-light,lato,sans-serif">El portafolio <span style="font-weight:bold">Monitor Plus®</span> se basa en productos flexibles para el monitoreo en tiempo real de operaciones financieras y no financieras que combina avanzadas tecnologías de inteligencia artificial (incluyendo machine learning) con conocimiento experto para un análisis y defensa integral de baja fricción con el cliente.</span></p>
+<br>
+
+<p class="font_8" style="text-align:justify;font-size:16px"><span style="font-family:lato-light,lato,sans-serif">Nuestra línea de productos provee cobertura en:&nbsp;</span></p>
+<br>
+<ul class="font_8" style="font-family:lato-light,lato,sans-serif;text-align:justify;font-size:16px">
+	<li>
+	<p class="font_8" style="font-size:16px"><a href="./prevencionfraude" target="_self"><span style="color:#207DBA"><span style="font-family:lato-light,lato,sans-serif">Prevención y Control de Fraude </span></span></a></p>
+	</li>
+	<li>
+	<p class="font_8" style="font-size:16px"><a href="./cumplimiento" target="_self"><span style="color:#207DBA"><span style="font-family:lato-light,lato,sans-serif">Cumplimiento</span></span></a></p>
+	</li>
+	<li>
+	<p class="font_8" style="font-size:16px"><a href="./riesgosoportunidades" target="_self"><span style="color:#207DBA"><span style="font-family:lato-light,lato,sans-serif">GRC - Gestión&nbsp;de Riesgos y Oportunidades</span></span></a></p>
+	</li>
+	<li>
+	<p class="font_8" style="font-size:16px"><span style="color:#207DBA"><a href="./auditoriacontinua" target="_self"><span style="font-family:lato-light,lato,sans-serif">Auditoría</span></a></span></p>
+	</li>
+	<li>
+	<p class="font_8" style="font-size:16px"><span style="color:#207DBA"><a href="./oportunidadesnegocios" target="_self"><span style="font-family:lato-light,lato,sans-serif">Negocios</span></a></span></p>
+	</li>
+	<li>
+	<p class="font_8" style="font-size:16px"><a href="./operacionesinternacionales" target="_self"><span style="color:#207DBA"><span style="font-family:lato-light,lato,sans-serif">Comercio Internacional</span></span></a></p>
+	</li>
+</ul>
+<br>
+
+<p class="font_8" style="text-align:justify;font-size:16px"><span style="font-family:lato-light,lato,sans-serif">Monitor Plus® 4.2.4&nbsp;está certificado PCI PA-DSS 3.2, es usado por 68% de los mejores bancos hispanohablantes de Latinoamérica (según <span style="color:#207DBA"><a href="https://www.americaeconomia.com/negocios-industrias/ranking-2017-conozca-los-25-mejores-bancos-de-america-latina" target="_blank" rel="noopener">Ranking 2017 de América Economía</a></span>), y ha recibido múltiples menciones por Gartner®. Además, PLUS TI ha sido mencionado por la revista <span style="color:#207DBA"><a href="https://banking-insurance.cioreview.com/vendor/2018/plus_technologies_&amp;_innovations?fbclid=IwAR1GVTJWAvVnSkeFI0gKKTyMO_mg64I5vhA9zyrS9vd_-xMpQp7ENzO52x8" target="_blank" rel="noopener">CIOReview</a></span> como uno de los Proveedores de Soluciones de Tecnología para la Banca Más Prometedores de 2018.&nbsp;</span></p>
+<br>
+
+</div>
+</body>
+
+ <footer>
+    <a href="index.html"> <img src="logo_plusti ACTUAL.png"> </a>
+    
+    
+    Plus Technologies & Innovations© 2020 | Todos los derechos reservados.
+    
+    </footer>
+  
+  </html>
