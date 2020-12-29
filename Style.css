@@ -270,3 +270,12 @@ line-height:1.52em;
   line-height:1.52em;
   
 }
+.conte2
+{
+  position: relative;
+margin: 0px 0px 20px calc((100% - 980px) * 0.5);
+left: 56px;
+
+justify-self: start;
+align-self: start;
+}
