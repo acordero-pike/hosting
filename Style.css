@@ -190,13 +190,15 @@ margin: 0px 0px 22px calc((100% - 980px) * 0.5);
 }
 .cont
 {
-position: static;
+display: -ms-grid;
 display: grid;
-height: auto;
-width: 100%;
-min-height: auto;
-grid-template-rows: min-content min-content 1fr;
+-ms-grid-rows: max-content max-content min-content max-content;
+grid-template-rows: -webkit-max-content -webkit-max-content -webkit-min-content -webkit-max-content;
+grid-template-rows: max-content max-content min-content max-content;
+-ms-grid-columns: 100%;
 grid-template-columns: 100%;
+align-items: start;
+justify-content: stretch;
 }
 span
 {
