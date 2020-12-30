@@ -279,3 +279,8 @@ left: 56px;
 justify-self: start;
 align-self: start;
 }
+.fd
+{
+  background-image: url("https://static.wixstatic.com/media/cd9bec_9719f29f0b014e8a89531cddca57fa87~mv2.png/v1/fill/w_491,h_241,al_c,q_85,usm_0.66_1.00_0.01/COMPU_edited.webp");
+  background-size: cover;
+}
