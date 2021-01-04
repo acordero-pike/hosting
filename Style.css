@@ -1,7 +1,16 @@
 html {
   scroll-behavior: smooth;
 }
-
+.slide
+{
+ width:95%;
+  margin:auto;
+}
+.slider ul
+{
+ padding:0;
+  
+}
 body {
 
   
@@ -283,4 +292,9 @@ align-self: start;
 {
   background-image: url("https://static.wixstatic.com/media/cd9bec_9719f29f0b014e8a89531cddca57fa87~mv2.png/v1/fill/w_491,h_241,al_c,q_85,usm_0.66_1.00_0.01/COMPU_edited.webp");
   background-size: cover;
+}
+.cont3
+{
+  position: relative;
+margin: 0px 0px 0px calc((100% - 1500px) * 0.5);
 }
