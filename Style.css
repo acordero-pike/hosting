@@ -10,8 +10,8 @@ html {
 {
 display: flex;
 padding: 0;
-width: 650px;
-  animation: cambio 20s infinity;
+width: 300%;
+  animation: cambio 20s infinite;
 }
  .slide li
   {
