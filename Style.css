@@ -310,8 +310,9 @@ align-self: start;
 }
 .conte3
 {
-  position: relative;
-margin: 0px 0px 0px calc((100% - 1500px) * 0.5);
+      position: relative;
+    margin: 0px 0px 0px calc((100% - 945px) * 0.5);
+    right: 250px;
 }
 
 @keyframes cambio 
