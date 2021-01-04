@@ -6,10 +6,24 @@ html {
  width:95%;
   margin:auto;
 }
-.slider ul
+.slide ul
 {
- padding:0;
+display: flex;
+padding: 0;
+width: 650px;
+  animation: cambio 20s infinity;
+}
+ .slide li
+  {
+    
+   width: 100%;
+list-style: none;
+  }
   
+  .slide img
+  {
+   width:100%; 
+  }
 }
 body {
 
@@ -297,4 +311,15 @@ align-self: start;
 {
   position: relative;
 margin: 0px 0px 0px calc((100% - 1500px) * 0.5);
+}
+
+@keyframes cambio 
+{
+  0% { margin-left:0;}
+   30% { margin-left:0;}
+   33% { margin-left:-100%;}
+   63% { margin-left:-100%;}
+  66% { margin-left:-200%;}
+  96% { margin-left:-200%;}
+  
 }
