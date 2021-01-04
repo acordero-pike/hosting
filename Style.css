@@ -5,6 +5,7 @@ html {
 {
  width:95%;
   margin:auto;
+  overflow:hidden;
 }
 .slide ul
 {
