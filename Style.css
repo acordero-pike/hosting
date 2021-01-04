@@ -25,7 +25,37 @@ list-style: none;
   {
    width:100%; 
   }
+
+.slide2
+{
+ width:95%;
+  margin:auto;
+  overflow:hidden;
 }
+.slide2 ul
+{
+display: flex;
+padding: 0;
+width: 600%;
+  animation: cambio2 60s infinite;
+}
+ .slide2 li
+  {
+    
+   width: 100%;
+list-style: none;
+  }
+  
+  .slide2 img
+  {
+   width:100%; 
+  }
+
+
+
+
+
+
 body {
 
   
@@ -323,5 +353,22 @@ align-self: start;
    63% { margin-left:-100%;}
   66% { margin-left:-200%;}
   96% { margin-left:-200%;}
+  
+}
+
+@keyframes cambio2
+{
+  0% { margin-left:0;}
+   15% { margin-left:0;}
+   17% { margin-left:-100%;}
+   31% { margin-left:-100%;}
+  33% { margin-left:-200%;}
+  47% { margin-left:-200%;}
+  49% { margin-left:-300%;}
+  63% { margin-left:-300%;}
+  66% { margin-left:-400%;}
+  81% { margin-left:-400%;}
+  84% { margin-left:-500%;}
+  100% { margin-left:-500%;}
   
 }
