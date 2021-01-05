@@ -5,13 +5,6 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-logvi
-{
-background-color: #245e90;
-background-image: url(../img/styles/login_pic_fon.png);
-background-position: center 25px;
-background-repeat: no-repeat	
-}
 
 
 html {
@@ -457,6 +450,13 @@ ul{list-style-type: none;}
 	color: rgba(0, 0, 0, .6);
 }
 
+logvi
+{
+background-color: #245e90;
+background-image: url(../img/styles/login_pic_fon.png);
+background-position: center 25px;
+background-repeat: no-repeat	
+}
 
 
 .calendario ul.dias li{
