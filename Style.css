@@ -164,7 +164,10 @@ ul.slider{
   width: 1300px;
   height: 625px;
 }
-
+.log
+{
+background: url("https://i.pinimg.com/originals/cc/a2/f0/cca2f03e5d6286eeaa1e129d9fc9fc7a.jpg");	
+}
 ul.slider li {
     position: absolute;
     left: 0px;
