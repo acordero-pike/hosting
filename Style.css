@@ -440,7 +440,7 @@ ul{list-style-type: none;}
 }
 
 .calendario ul.dias-sema li{
-	width: 9%;
+	width: 13%;
 	text-align: center;
 	padding: 20px;
 	color: rgba(0, 0, 0, .6);
@@ -449,7 +449,7 @@ ul{list-style-type: none;}
 
 
 .calendario ul.dias li{
-	width: 10%;
+	width: 13%;
 	text-align: center;
 	padding: 15px;
 	color: rgba(0, 0, 0, .6);
