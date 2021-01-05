@@ -356,6 +356,102 @@ align-self: start;
   
 }
 
+
+ul{list-style-type: none;}
+
+.calendario{
+	width: 100%;
+	max-width: 50%;
+	background: #E3E3E3;
+}
+
+.calendario .titulo{
+	width: 100%;
+	height: auto;
+	background: #1ABC9C;
+}
+
+.calendario .titulo ul{
+	width: 100%;
+	height: 200px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.calendario .titulo ul li{
+	color: #FFF;
+	font-size: 1.3em;
+	text-align: center;
+}
+
+.calendario .titulo ul li span{
+	font-size: 14px;
+	display: block;
+}
+
+.calendar .titulo ul li.pr,
+.calendar .titulo ul li.ne{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	font-size: 20px;
+	cursor: pointer;
+	line-height: 40px;
+	transition: background 0.3s ease;
+}
+
+.calendario .titulo ul li.pr:hover,
+.calendario .titulo ul li.ne:hover{
+	background: rgba(255, 255, 255, 0.1);
+}
+
+.calendario .titulo ul li.pr{
+	left: 10px;
+}
+
+.calendario .titulo ul li.ne{
+	right: 10px;
+}
+
+
+
+.calendario ul.dias-sema,
+.calendario ul.dias{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.calendario ul.dias-sema{
+	background: rgba(0, 0, 0, .1);
+}
+
+.calendario ul.dias-sema li{
+	width: 14.28%;
+	text-align: center;
+	padding: 20px;
+	color: rgba(0, 0, 0, .6);
+}
+
+
+
+.calendario ul.dias li{
+	width: 14.28%;
+	text-align: center;
+	padding: 15px;
+	color: rgba(0, 0, 0, .6);
+	font-size: 12px;
+}
+
+
+
+
+
+
+
 @keyframes cambio2
 {
   0% { margin-left:0;}
