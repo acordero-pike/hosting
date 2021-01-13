@@ -478,7 +478,22 @@ width: 300;
 bottom: 50;	
 }
 
+.resumen a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
 
+.resumen a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .resumen {
+  display: block;
+}
 
 
 
